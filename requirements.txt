@@ -1,0 +1,5 @@
+Flask==2.2.3
+flask_wtf==1.1.1
+Werkzeug==2.2.3
+wtf==0.1
+WTForms==3.0.1
